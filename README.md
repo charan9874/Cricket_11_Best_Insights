@@ -14,7 +14,7 @@ In the context of T20 cricket, "New All Rounders" refer to players who have rece
 ![finishers ](https://github.com/charan9874/Cricket_11_Best_Insights/blob/main/Images/Screenshot%202024-05-30%20235759.png)
 # Batters :
 Player details by match: "Batters" refers to the players in a cricket team who primarily focus on batting. They play the key role of scoring runs for the team. "Player details by match" indicates that the dashboard provides specific information about individual batters for each match, such as their performance, statistics, and other relevant details.
-![Power Hitter ]()
+![Power Hitter ](https://github.com/charan9874/Cricket_11_Best_Insights/blob/main/Images/Screenshot%202024-05-31%20005218.png)
 # All Rounder :
 Player details by match: "All Rounder" here refers to players who contribute significantly to the team's success both with bat and ball. They are skilled in both batting and bowling aspects of the game. "Player details by match" signifies that the dashboard provides specific information about individual all-rounders for each match, including their performance, statistics, and other relevant details.
 ![all rounder ](https://github.com/charan9874/Cricket_11_Best_Insights/blob/main/Images/Screenshot%202024-05-30%20235824.png)
